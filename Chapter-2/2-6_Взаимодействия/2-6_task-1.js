@@ -1,6 +1,6 @@
 "use strict"
 
-let userName = prompt("Как Вас зовут?", "")
+let userName = prompt("Как Вас зовут?", "");
 
-alert(`Вас зовут ${userName}.`)
+alert(`Вас зовут ${userName}.`);
 
