@@ -1,2 +1,2 @@
 # learnjs-tasks
-Учебник JavaScript learn.javasctipt.ru
+Задания из учебника JavaScript на learn.javasctipt.ru.
